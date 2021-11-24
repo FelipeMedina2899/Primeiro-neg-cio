@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+    width: 80%;
+    margin: auto;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+   
+    background-color: #333;
+    color: ghostwhite;
+    position: relative;
+    left: 100px;
+    
+
+
+margin-top: 6%;
+padding: 20px;
+border: 15px solid blue
+}
+
+.mainaside ul{
+    list-style: none;
+    text-align: center;
+}
+.mainaside ul a{
+    text-decoration: none;
+}
+.mainaside ul a:hover{
+    color: blueviolet;
+}
+.mainaside :visited{
+    color: chartreuse;
+}
+
+
+
+ .form-group{
+     padding-bottom: 10px;
+ }
+.form-group{
+    padding-left: 20px;
+}
+.form-group label{
+    display:block ;
+}
+
+.button{
+    padding: 15px;
+    background-color: #333;
+    color: #eee;
+  
+}
+.form-group{
+    background-color: lightgray;
+}
+
+
+
+
+
